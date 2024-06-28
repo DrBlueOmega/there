@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THEA</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>THEA</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="product-tests.html">PRODUCT TESTS</a></li>
+                <li><a href="surveys.html">SURVEYS</a></li>
+                <li><a href="blog.html">BLOG</a></li>
+                <li><a href="contact.html">CONTACT</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="intro">
+            <h2>Welcome to THEA</h2>
+            <p>Participate in product tests and earn rewards by sharing your opinions.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 THEA</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THEA - Product Tests</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>THEA</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="product-tests.html">PRODUCT TESTS</a></li>
+                <li><a href="surveys.html">SURVEYS</a></li>
+                <li><a href="blog.html">BLOG</a></li>
+                <li><a href="contact.html">CONTACT</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="product-tests">
+            <h2>Current Product Tests</h2>
+            <div class="product">
+                <h3>Product 1</h3>
+                <p>Description of Product 1.</p>
+            </div>
+            <div class="product">
+                <h3>Product 2</h3>
+                <p>Description of Product 2.</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 THEA</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THEA - Surveys</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>THEA</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="product-tests.html">PRODUCT TESTS</a></li>
+                <li><a href="surveys.html">SURVEYS</a></li>
+                <li><a href="blog.html">BLOG</a></li>
+                <li><a href="contact.html">CONTACT</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="surveys">
+            <h2>Current Surveys</h2>
+            <div class="survey">
+                <h3>Survey 1</h3>
+                <p>Description of Survey 1.</p>
+            </div>
+            <div class="survey">
+                <h3>Survey 2</h3>
+                <p>Description of Survey 2.</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 THEA</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THEA - Blog</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>THEA</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="product-tests.html">PRODUCT TESTS</a></li>
+                <li><a href="surveys.html">SURVEYS</a></li>
+                <li><a href="blog.html">BLOG</a></li>
+                <li><a href="contact.html">CONTACT</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="blog">
+            <h2>Ways to Get Money</h2>
+            <article class="blog-post">
+                <h3>Freelancing</h3>
+                <p>Freelancing allows you to offer your skills and services to clients around the world. Platforms like Upwork and Fiverr make it easy to find freelance jobs in various fields.</p>
+            </article>
+            <article class="blog-post">
+                <h3>Affiliate Marketing</h3>
+                <p>Affiliate marketing involves promoting other people's products and earning a commission for each sale made through your referral link. It’s a great way to make passive income.</p>
+            </article>
+            <article class="blog-post">
+                <h3>eCommerce</h3>
+                <p>Starting an online store can be a lucrative business. Platforms like Shopify and WooCommerce make it easy to set up and run your own eCommerce store.</p>
+            </article>
+            <article class="blog-post">
+                <h3>Investing</h3>
+                <p>Investing in stocks, bonds, or real estate can help you build wealth over time. It’s important to do thorough research or consult with a financial advisor before making investments.</p>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 THEA</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THEA - Contact</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>THEA</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="product-tests.html">PRODUCT TESTS</a></li>
+                <li><a href="surveys.html">SURVEYS</a></li>
+                <li><a href="blog.html">BLOG</a></li>
+                <li><a href="contact.html">CONTACT</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Created by Vincent Lumiti, Founder of Vince Lu Prodigy Enterprises.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 THEA</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
